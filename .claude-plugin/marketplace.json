@@ -1168,6 +1168,16 @@
       "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev"
     },
     {
+      "name": "mdshare",
+      "description": "Free markdown sharing via MCP. Upload markdown files to mdshare.live and get shareable URLs with four permission tiers (admin/edit/comment/view), inline-anchored comments, real-time sync, and 90-day expiry — no login required. The MCP server uses file_path so large markdown files don't burn conversation tokens.",
+      "category": "productivity",
+      "source": "./external_plugins/mdshare",
+      "homepage": "https://mdshare.live",
+      "tags": [
+        "community-managed"
+      ]
+    },
+    {
       "name": "microsoft-docs",
       "description": "Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more.",
       "category": "development",
